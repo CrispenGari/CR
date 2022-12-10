@@ -201,7 +201,7 @@ const Home = ({ navigation }) => {
               fontFamily: FONTS.NunitoSansRegular,
             }}
           >
-            Choose an image of a snake or take a photo.
+            Choose an image of with text or take a new one.
           </Text>
           <View
             style={{
